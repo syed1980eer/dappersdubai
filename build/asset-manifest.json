@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/dappersdubai/static/css/main.4b517465.css",
+    "main.js": "/dappersdubai/static/js/main.995ab1eb.js",
+    "static/media/home-2.png": "/dappersdubai/static/media/home-2.f65d19ae6ce10bf17c39.png",
+    "static/media/bg_about.png": "/dappersdubai/static/media/bg_about.abb319283596f54c60e4.png",
+    "static/media/portfolio7.jpg": "/dappersdubai/static/media/portfolio7.3490956990177d1199d9.jpg",
+    "static/media/portfolio6.jpg": "/dappersdubai/static/media/portfolio6.1a4af96800a93e69f2a8.jpg",
+    "static/media/portfolio5.jpg": "/dappersdubai/static/media/portfolio5.28221a577f438089db32.jpg",
+    "static/media/portfolio8.jpg": "/dappersdubai/static/media/portfolio8.c3dd89dd097587874658.jpg",
+    "static/media/portfolio9.jpg": "/dappersdubai/static/media/portfolio9.dd07378597dff7feb051.jpg",
+    "static/media/portfolio10.jpg": "/dappersdubai/static/media/portfolio10.28f725254b589af73d99.jpg",
+    "static/media/portfolio4.png": "/dappersdubai/static/media/portfolio4.c9d0eea23811cb89cb3c.png",
+    "static/media/pricing1.png": "/dappersdubai/static/media/pricing1.ee311dcff5710873c38e.png",
+    "static/media/service_2.png": "/dappersdubai/static/media/service_2.daa1c7cb400d52b00e8b.png",
+    "static/media/new_final_logo.png": "/dappersdubai/static/media/new_final_logo.a0464a38f1058188fd55.png",
+    "static/media/service_7.jpg": "/dappersdubai/static/media/service_7.facd52ffc3ade1c3f1c4.jpg",
+    "static/media/service_1.png": "/dappersdubai/static/media/service_1.a3d3854932b2cfa145d5.png",
+    "static/media/about.png": "/dappersdubai/static/media/about.9a8b8e88ba747d5bae29.png",
+    "static/media/service_4.jpg": "/dappersdubai/static/media/service_4.0d259f804b816de11fc6.jpg",
+    "static/media/service_6.jpg": "/dappersdubai/static/media/service_6.61d772fae606c8e4a6cf.jpg",
+    "static/media/service_3.jpg": "/dappersdubai/static/media/service_3.5587420ddcae61908370.jpg",
+    "static/media/portfolio2.jpg": "/dappersdubai/static/media/portfolio2.278176325ae44760ff8a.jpg",
+    "static/media/pricing2.png": "/dappersdubai/static/media/pricing2.6d1229ee80dc4560a16b.png",
+    "static/media/milestone_bg.png": "/dappersdubai/static/media/milestone_bg.fcbf85f956c1b02bab35.png",
+    "static/media/milestone2.png": "/dappersdubai/static/media/milestone2.9d6979df63ac279f025a.png",
+    "index.html": "/dappersdubai/index.html",
+    "main.4b517465.css.map": "/dappersdubai/static/css/main.4b517465.css.map",
+    "main.995ab1eb.js.map": "/dappersdubai/static/js/main.995ab1eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b517465.css",
+    "static/js/main.995ab1eb.js"
+  ]
+}
